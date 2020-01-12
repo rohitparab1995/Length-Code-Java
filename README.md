@@ -1,6 +1,3 @@
-# hello-world rohit parab
+# Length Code
 
-I am from Goa!
-
-
-Simple program to understand Git-Hub
+Requirement: Find the records which doesn't satisfy the conditions of a properly formatted data file.
